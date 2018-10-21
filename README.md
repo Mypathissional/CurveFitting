@@ -1,2 +1,2 @@
 # CurveFitting
-Bezier Curves and Splines
+Bezier Curves and Cubic Splines implementations in Python
